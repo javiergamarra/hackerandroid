@@ -13,7 +13,7 @@ export class HackerNewsService {
     headers.append('accept', 'application/json');
     return this.http
       .get('http://hn.algolia.com/api/v1/search_by_date', {headers: headers}
-      );
+      ).map(x => x.json()['hits']);
   }
 
 }

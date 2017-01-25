@@ -15,11 +15,6 @@ export class HomePage implements OnInit {
   }
 
   ngOnInit(): void {
-    this.hackerNewsService.getStories().subscribe(
-      x =>
-        this.stories = x.json()['hits']
-      ,
-      err => console.log(err)
-    )
+    this.stories = this.hackerNewsService.getStories();
   }
 }
