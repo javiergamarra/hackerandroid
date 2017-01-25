@@ -8,6 +8,8 @@
 
     <div *ngFor="let story of stories | async">
         {{story.title}}
+        <button (click)="click($event, story)">Click me</button>
     </div>
+
 
 </ion-content>

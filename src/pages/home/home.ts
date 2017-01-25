@@ -17,4 +17,8 @@ export class HomePage implements OnInit {
   ngOnInit(): void {
     this.stories = this.hackerNewsService.getStories();
   }
+
+  click($event, story) {
+    console.log('story' + story.title);
+  }
 }
