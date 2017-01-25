@@ -1,0 +1,837 @@
+{
+  "hits": [
+    {
+      "created_at": "2017-01-25T15:51:46.000Z",
+      "title": null,
+      "url": null,
+      "author": "yareally",
+      "points": null,
+      "story_text": null,
+      "comment_text": "The short-term focused nature of humanity sometimes worries me as we keep making mistakes that are likely irreversible and preventable. Passenger pigeons were once estimated to be the most abundant bird in the world. There were so many that no one thought they could ever go extinct, until they did in the early 20th century.\u003Cp\u003EIgnorance befell twice when people failed to realize a bird that would \u0026quot;darken the skies\u0026quot; could go extinct like any creature and that their breeding habits weren\u0026#x27;t as straight forward as one would assume. Passenger pigeons would only breed in large flocks, so by the time that anyone realized they were doomed and tried to breed them, there weren\u0026#x27;t enough pigeons left to form a flock of significant size.",
+      "num_comments": null,
+      "story_id": 13478910,
+      "story_title": "American chestnut trees are “technically extinct”",
+      "story_url": "https://timeline.com/american-chestnut-trees-disappeared-39217da38c59?source=collection_home---7------1----------",
+      "parent_id": 13479477,
+      "created_at_i": 1485359506,
+      "_tags": [
+        "comment",
+        "author_yareally",
+        "story_13478910"
+      ],
+      "objectID": "13482354",
+      "_highlightResult": {
+        "author": {
+          "value": "yareally",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "The short-term focused nature of humanity sometimes worries me as we keep making mistakes that are likely irreversible and preventable. Passenger pigeons were once estimated to be the most abundant bird in the world. There were so many that no one thought they could ever go extinct, until they did in the early 20th century.\u003Cp\u003EIgnorance befell twice when people failed to realize a bird that would \u0026quot;darken the skies\u0026quot; could go extinct like any creature and that their breeding habits weren't as straight forward as one would assume. Passenger pigeons would only breed in large flocks, so by the time that anyone realized they were doomed and tried to breed them, there weren't enough pigeons left to form a flock of significant size.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "American chestnut trees are “technically extinct”",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://timeline.com/american-chestnut-trees-disappeared-39217da38c59?source=collection_home---7------1----------",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:39.000Z",
+      "title": "Resilient cooperators stabilize cooperation in repeated Prisoner’s Dilemma",
+      "url": "http://www.nature.com/articles/ncomms13800",
+      "author": "nabla9",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1485359499,
+      "_tags": [
+        "story",
+        "author_nabla9",
+        "story_13482353"
+      ],
+      "objectID": "13482353",
+      "_highlightResult": {
+        "title": {
+          "value": "Resilient cooperators stabilize cooperation in repeated Prisoner’s Dilemma",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://www.nature.com/articles/ncomms13800",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "nabla9",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:30.000Z",
+      "title": null,
+      "url": null,
+      "author": "esra",
+      "points": null,
+      "story_text": null,
+      "comment_text": "I\u0026#x27;d say it\u0026#x27;s extremely subjective which language is more readable, for some that might be Elixir and for others it\u0026#x27;s Erlang.",
+      "num_comments": null,
+      "story_id": 13474738,
+      "story_title": "What's all this fuss about Erlang? (2007)",
+      "story_url": "https://pragprog.com/articles/erlang/",
+      "parent_id": 13479438,
+      "created_at_i": 1485359490,
+      "_tags": [
+        "comment",
+        "author_esra",
+        "story_13474738"
+      ],
+      "objectID": "13482352",
+      "_highlightResult": {
+        "author": {
+          "value": "esra",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I'd say it's extremely subjective which language is more readable, for some that might be Elixir and for others it's Erlang.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "What's all this fuss about Erlang? (2007)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://pragprog.com/articles/erlang/",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:28.000Z",
+      "title": null,
+      "url": null,
+      "author": "byoung2",
+      "points": null,
+      "story_text": null,
+      "comment_text": "0%...I work remote and make my own schedule. I\u0026#x27;m on my way to the airport for a month long vacation. As a contractor I can take a month off without needing approval from anyone. I can take a Tuesday off and go to Disneyland with my daughter without needing to lie about being sick.",
+      "num_comments": null,
+      "story_id": 13482245,
+      "story_title": "Ask HN: How would you quantify the level of stress at work?",
+      "story_url": null,
+      "parent_id": 13482245,
+      "created_at_i": 1485359488,
+      "_tags": [
+        "comment",
+        "author_byoung2",
+        "story_13482245"
+      ],
+      "objectID": "13482351",
+      "_highlightResult": {
+        "author": {
+          "value": "byoung2",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "0%...I work remote and make my own schedule. I'm on my way to the airport for a month long vacation. As a contractor I can take a month off without needing approval from anyone. I can take a Tuesday off and go to Disneyland with my daughter without needing to lie about being sick.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Ask HN: How would you quantify the level of stress at work?",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:26.000Z",
+      "title": null,
+      "url": null,
+      "author": "clarkmoody",
+      "points": null,
+      "story_text": null,
+      "comment_text": "I never said anything about due process.",
+      "num_comments": null,
+      "story_id": 13479510,
+      "story_title": "Controlling your own wealth as a basic human right",
+      "story_url": "https://blog.coinbase.com/controlling-your-own-wealth-is-a-basic-human-right-9fbe78341a7f#.o51jvuhsw",
+      "parent_id": 13482295,
+      "created_at_i": 1485359486,
+      "_tags": [
+        "comment",
+        "author_clarkmoody",
+        "story_13479510"
+      ],
+      "objectID": "13482350",
+      "_highlightResult": {
+        "author": {
+          "value": "clarkmoody",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I never said anything about due process.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Controlling your own wealth as a basic human right",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://blog.coinbase.com/controlling-your-own-wealth-is-a-basic-human-right-9fbe78341a7f#.o51jvuhsw",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:24.000Z",
+      "title": null,
+      "url": null,
+      "author": "madgar",
+      "points": null,
+      "story_text": null,
+      "comment_text": "You seem to be confusing work without net pay with slavery.\u003Cp\u003ESlaves may be killed with no penalty other than the cost of replacement.",
+      "num_comments": null,
+      "story_id": 13479510,
+      "story_title": "Controlling your own wealth as a basic human right",
+      "story_url": "https://blog.coinbase.com/controlling-your-own-wealth-is-a-basic-human-right-9fbe78341a7f#.o51jvuhsw",
+      "parent_id": 13482271,
+      "created_at_i": 1485359484,
+      "_tags": [
+        "comment",
+        "author_madgar",
+        "story_13479510"
+      ],
+      "objectID": "13482349",
+      "_highlightResult": {
+        "author": {
+          "value": "madgar",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "You seem to be confusing work without net pay with slavery.\u003Cp\u003ESlaves may be killed with no penalty other than the cost of replacement.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Controlling your own wealth as a basic human right",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://blog.coinbase.com/controlling-your-own-wealth-is-a-basic-human-right-9fbe78341a7f#.o51jvuhsw",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:20.000Z",
+      "title": null,
+      "url": null,
+      "author": "vineet",
+      "points": null,
+      "story_text": null,
+      "comment_text": "It seems like the development process is somewhat waterfall-ish (which most development often tends towards). With that in mind, I believe that the original plan - of leaving right after the app goes into production had a small flaw in it.\u003Cp\u003EIn my experience there are often a large set of work that is left when a big production release happens - from the minor like bug fixes and features that were deprioritized to the bigger and often more urgent ones like performance problems and non-validated \u0026#x27;shadow beliefs\u0026#x27; being tested.\u003Cp\u003EI would recommend sticking with your original plan, but making sure to spend the next week or two to mentally prepare the team that they are likely only just finishing the boring 1\u0026#x2F;3 of building software and going to start making an impact in the \u0026#x27;real-world\u0026#x27;.",
+      "num_comments": null,
+      "story_id": 13481109,
+      "story_title": "Ask HN: Leave job right before app goes to production?",
+      "story_url": null,
+      "parent_id": 13481109,
+      "created_at_i": 1485359480,
+      "_tags": [
+        "comment",
+        "author_vineet",
+        "story_13481109"
+      ],
+      "objectID": "13482348",
+      "_highlightResult": {
+        "author": {
+          "value": "vineet",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "It seems like the development process is somewhat waterfall-ish (which most development often tends towards). With that in mind, I believe that the original plan - of leaving right after the app goes into production had a small flaw in it.\u003Cp\u003EIn my experience there are often a large set of work that is left when a big production release happens - from the minor like bug fixes and features that were deprioritized to the bigger and often more urgent ones like performance problems and non-validated 'shadow beliefs' being tested.\u003Cp\u003EI would recommend sticking with your original plan, but making sure to spend the next week or two to mentally prepare the team that they are likely only just finishing the boring 1/3 of building software and going to start making an impact in the 'real-world'.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Ask HN: Leave job right before app goes to production?",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:19.000Z",
+      "title": null,
+      "url": null,
+      "author": "treehau5",
+      "points": null,
+      "story_text": null,
+      "comment_text": "\u0026gt;  figuring out who were good people\u003Cp\u003EHow are you suppose to figure out who is good at programming if you have no clue what it means to be one? You could look at output, sure, but is that always a good metric? How can you gauge quality of output? If I am a boss of an investment bank firm, and I have no clue about investment banking, sure I could hire someone who objectively makes a lot of money, but how do I know the details? Whether or not it is quality work, they just got lucky a couple times, or worst case, are breaking some sort of law?",
+      "num_comments": null,
+      "story_id": 13481218,
+      "story_title": "Employees are happier when led by people with deep expertise",
+      "story_url": "https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work",
+      "parent_id": 13482155,
+      "created_at_i": 1485359479,
+      "_tags": [
+        "comment",
+        "author_treehau5",
+        "story_13481218"
+      ],
+      "objectID": "13482347",
+      "_highlightResult": {
+        "author": {
+          "value": "treehau5",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "\u0026gt;  figuring out who were good people\u003Cp\u003EHow are you suppose to figure out who is good at programming if you have no clue what it means to be one? You could look at output, sure, but is that always a good metric? How can you gauge quality of output? If I am a boss of an investment bank firm, and I have no clue about investment banking, sure I could hire someone who objectively makes a lot of money, but how do I know the details? Whether or not it is quality work, they just got lucky a couple times, or worst case, are breaking some sort of law?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Employees are happier when led by people with deep expertise",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:16.000Z",
+      "title": null,
+      "url": null,
+      "author": "benmarks",
+      "points": null,
+      "story_text": null,
+      "comment_text": "From the comments: \u0026quot;I\u0026#x27;d bet a lot of workers who are unhappy for other reasons end up judging their supervisor to have low technical competence, making causality hard to determine.\u0026quot;\u003Cp\u003ECurious to see how competence is objectively measured in this case.",
+      "num_comments": null,
+      "story_id": 13481218,
+      "story_title": "Employees are happier when led by people with deep expertise",
+      "story_url": "https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work",
+      "parent_id": 13481218,
+      "created_at_i": 1485359476,
+      "_tags": [
+        "comment",
+        "author_benmarks",
+        "story_13481218"
+      ],
+      "objectID": "13482346",
+      "_highlightResult": {
+        "author": {
+          "value": "benmarks",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "From the comments: \u0026quot;I'd bet a lot of workers who are unhappy for other reasons end up judging their supervisor to have low technical competence, making causality hard to determine.\u0026quot;\u003Cp\u003ECurious to see how competence is objectively measured in this case.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Employees are happier when led by people with deep expertise",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:15.000Z",
+      "title": null,
+      "url": null,
+      "author": "jeromegv",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Happened to me twice, had decided to quit for a while and my last day was supposed to be after the go-live of long projects.\u003Cp\u003EOn the first case, the project was so mismanaged that eventually even 3 months later the project was still not launched, good thing I didn\u0026#x27;t stick around.\u003Cp\u003EOn the second case, the project was delayed by only a couple weeks. My past employer just hired me on contract for the few hours of support they needed me for the production launch. If your role is truly critical and you still want to help, take a few hours on the side for them, and ensure you are paid properly. Nobody ever considered me irresponsible to leave at the time I wanted to leave. If your employer runs out of money, they won\u0026#x27;t hesitate to lay you off as soon as possible, regardless of projects. That works both ways.",
+      "num_comments": null,
+      "story_id": 13481109,
+      "story_title": "Ask HN: Leave job right before app goes to production?",
+      "story_url": null,
+      "parent_id": 13481109,
+      "created_at_i": 1485359475,
+      "_tags": [
+        "comment",
+        "author_jeromegv",
+        "story_13481109"
+      ],
+      "objectID": "13482345",
+      "_highlightResult": {
+        "author": {
+          "value": "jeromegv",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Happened to me twice, had decided to quit for a while and my last day was supposed to be after the go-live of long projects.\u003Cp\u003EOn the first case, the project was so mismanaged that eventually even 3 months later the project was still not launched, good thing I didn't stick around.\u003Cp\u003EOn the second case, the project was delayed by only a couple weeks. My past employer just hired me on contract for the few hours of support they needed me for the production launch. If your role is truly critical and you still want to help, take a few hours on the side for them, and ensure you are paid properly. Nobody ever considered me irresponsible to leave at the time I wanted to leave. If your employer runs out of money, they won't hesitate to lay you off as soon as possible, regardless of projects. That works both ways.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Ask HN: Leave job right before app goes to production?",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:13.000Z",
+      "title": null,
+      "url": null,
+      "author": "oddlyaromatic",
+      "points": null,
+      "story_text": null,
+      "comment_text": "That\u0026#x27;s how metaphor works. It actually happens a lot in English, here\u0026#x27;s a list of so-called \u0026quot;contranyms\u0026quot; \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;www.dailywritingtips.com\u0026#x2F;75-contronyms-words-with-contradictory-meanings\u0026#x2F;\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.dailywritingtips.com\u0026#x2F;75-contronyms-words-with-con...\u003C/a\u003E",
+      "num_comments": null,
+      "story_id": 13480255,
+      "story_title": "Calling Yourself ‘Humbled’ Doesn’t Sound as Humble as It Used To",
+      "story_url": "https://www.nytimes.com/2017/01/24/magazine/calling-yourself-humbled-doesnt-sound-as-humble-as-it-used-to.html",
+      "parent_id": 13482192,
+      "created_at_i": 1485359473,
+      "_tags": [
+        "comment",
+        "author_oddlyaromatic",
+        "story_13480255"
+      ],
+      "objectID": "13482344",
+      "_highlightResult": {
+        "author": {
+          "value": "oddlyaromatic",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "That's how metaphor works. It actually happens a lot in English, here's a list of so-called \u0026quot;contranyms\u0026quot; \u003Ca href=\"http://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings/\" rel=\"nofollow\"\u003Ehttp://www.dailywritingtips.com/75-contronyms-words-with-con...\u003C/a\u003E",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Calling Yourself ‘Humbled’ Doesn’t Sound as Humble as It Used To",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://www.nytimes.com/2017/01/24/magazine/calling-yourself-humbled-doesnt-sound-as-humble-as-it-used-to.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:12.000Z",
+      "title": null,
+      "url": null,
+      "author": "OJFord",
+      "points": null,
+      "story_text": null,
+      "comment_text": "That\u0026#x27;s not inconsistent with OP\u0026#x27;s case though.\u003Cp\u003EIt sounds like France has a national (presumably minimum) notice period. In the UK, and I imagine many places (but then, I\u0026#x27;m sure we all imagine \u0026#x27;many places\u0026#x27; are like our own...) it varies, and typically is longer the more senior you are or time spent at the company (as obviously there\u0026#x27;s more \u0026#x27;wrapping up\u0026#x27; to do, like you describe).\u003Cp\u003EOP describes having given notice, pushed back by a week in order to finish the project, and it still not being due for completion on time. We don\u0026#x27;t know how much notice they gave initially, perhaps 3mo exactly as you\u0026#x27;re accustomed to, perhaps not.",
+      "num_comments": null,
+      "story_id": 13481109,
+      "story_title": "Ask HN: Leave job right before app goes to production?",
+      "story_url": null,
+      "parent_id": 13482242,
+      "created_at_i": 1485359472,
+      "_tags": [
+        "comment",
+        "author_OJFord",
+        "story_13481109"
+      ],
+      "objectID": "13482343",
+      "_highlightResult": {
+        "author": {
+          "value": "OJFord",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "That's not inconsistent with OP's case though.\u003Cp\u003EIt sounds like France has a national (presumably minimum) notice period. In the UK, and I imagine many places (but then, I'm sure we all imagine 'many places' are like our own...) it varies, and typically is longer the more senior you are or time spent at the company (as obviously there's more 'wrapping up' to do, like you describe).\u003Cp\u003EOP describes having given notice, pushed back by a week in order to finish the project, and it still not being due for completion on time. We don't know how much notice they gave initially, perhaps 3mo exactly as you're accustomed to, perhaps not.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Ask HN: Leave job right before app goes to production?",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:51:05.000Z",
+      "title": null,
+      "url": null,
+      "author": "dkersten",
+      "points": null,
+      "story_text": null,
+      "comment_text": "I tried both the 9.7\u0026quot; and 12\u0026quot; before I bought my 9.7\u0026quot;. For me, while the 12\u0026quot; is fantastic for the available space (and the side by side tile feature is also awesome on the bigger screen), I found the size and weight meant I wouldn\u0026#x27;t want to carry it around with me wherever I go and is harder for me to hold eg on a bus. The 9.7\u0026quot; is small and light enough to be portable, which was important to me.",
+      "num_comments": null,
+      "story_id": 13460784,
+      "story_title": "Paper is the real 'killer app'",
+      "story_url": "http://www.bbc.com/capital/story/20170120-why-paper-is-the-real-killer-app",
+      "parent_id": 13466927,
+      "created_at_i": 1485359465,
+      "_tags": [
+        "comment",
+        "author_dkersten",
+        "story_13460784"
+      ],
+      "objectID": "13482341",
+      "_highlightResult": {
+        "author": {
+          "value": "dkersten",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I tried both the 9.7\u0026quot; and 12\u0026quot; before I bought my 9.7\u0026quot;. For me, while the 12\u0026quot; is fantastic for the available space (and the side by side tile feature is also awesome on the bigger screen), I found the size and weight meant I wouldn't want to carry it around with me wherever I go and is harder for me to hold eg on a bus. The 9.7\u0026quot; is small and light enough to be portable, which was important to me.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Paper is the real 'killer app'",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://www.bbc.com/capital/story/20170120-why-paper-is-the-real-killer-app",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:50:59.000Z",
+      "title": null,
+      "url": null,
+      "author": "metaphorm",
+      "points": null,
+      "story_text": null,
+      "comment_text": "my perspective on this is that that is a remarkably short list of complaints for a programming language, all things considered.\u003Cp\u003EPython is certainly not perfect, but a similar list of pet peeves and grievances for, say PHP or Java would easily be 10 times longer even under the most charitable interpretations.",
+      "num_comments": null,
+      "story_id": 13478869,
+      "story_title": "Problems I Have with Python",
+      "story_url": "http://darkf.github.io/posts/problems-i-have-with-python.html",
+      "parent_id": 13478869,
+      "created_at_i": 1485359459,
+      "_tags": [
+        "comment",
+        "author_metaphorm",
+        "story_13478869"
+      ],
+      "objectID": "13482340",
+      "_highlightResult": {
+        "author": {
+          "value": "metaphorm",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "my perspective on this is that that is a remarkably short list of complaints for a programming language, all things considered.\u003Cp\u003EPython is certainly not perfect, but a similar list of pet peeves and grievances for, say PHP or Java would easily be 10 times longer even under the most charitable interpretations.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Problems I Have with Python",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://darkf.github.io/posts/problems-i-have-with-python.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:50:53.000Z",
+      "title": null,
+      "url": null,
+      "author": "richardboegli",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Gamasutra - Epic Games launches $500,000 year-long game dev contest\n\u003Ca href=\"http:\u0026#x2F;\u0026#x2F;www.gamasutra.com\u0026#x2F;view\u0026#x2F;news\u0026#x2F;290011\u0026#x2F;Epic_Games_launches_500000_yearlong_game_dev_contest.php\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.gamasutra.com\u0026#x2F;view\u0026#x2F;news\u0026#x2F;290011\u0026#x2F;Epic_Games_launche...\u003C/a\u003E",
+      "num_comments": null,
+      "story_id": 13482309,
+      "story_title": "Developing Beyond, a new $500,000 game dev comp by Epic Games and Wellcome",
+      "story_url": "http://developingbeyond.com/",
+      "parent_id": 13482309,
+      "created_at_i": 1485359453,
+      "_tags": [
+        "comment",
+        "author_richardboegli",
+        "story_13482309"
+      ],
+      "objectID": "13482339",
+      "_highlightResult": {
+        "author": {
+          "value": "richardboegli",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Gamasutra - Epic Games launches $500,000 year-long game dev contest\n\u003Ca href=\"http://www.gamasutra.com/view/news/290011/Epic_Games_launches_500000_yearlong_game_dev_contest.php\" rel=\"nofollow\"\u003Ehttp://www.gamasutra.com/view/news/290011/Epic_Games_launche...\u003C/a\u003E",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Developing Beyond, a new $500,000 game dev comp by Epic Games and Wellcome",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://developingbeyond.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:50:52.000Z",
+      "title": "The Death Star and the Final Trench Run",
+      "url": "http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html",
+      "author": "pilom",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1485359452,
+      "_tags": [
+        "story",
+        "author_pilom",
+        "story_13482338"
+      ],
+      "objectID": "13482338",
+      "_highlightResult": {
+        "title": {
+          "value": "The Death Star and the Final Trench Run",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "pilom",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:50:51.000Z",
+      "title": null,
+      "url": null,
+      "author": "intended",
+      "points": null,
+      "story_text": null,
+      "comment_text": "It\u0026#x27;s not a debate. it\u0026#x27;s theater.",
+      "num_comments": null,
+      "story_id": 13480007,
+      "story_title": "Scientists must fight for the facts",
+      "story_url": "http://www.nature.com/news/scientists-must-fight-for-the-facts-1.21347?WT.mc_id=FBK_NatureNews",
+      "parent_id": 13482297,
+      "created_at_i": 1485359451,
+      "_tags": [
+        "comment",
+        "author_intended",
+        "story_13480007"
+      ],
+      "objectID": "13482337",
+      "_highlightResult": {
+        "author": {
+          "value": "intended",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "It's not a debate. it's theater.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Scientists must fight for the facts",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://www.nature.com/news/scientists-must-fight-for-the-facts-1.21347?WT.mc_id=FBK_NatureNews",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:50:48.000Z",
+      "title": null,
+      "url": null,
+      "author": "jawns",
+      "points": null,
+      "story_text": null,
+      "comment_text": "Very few public high schools in the U.S. have single-track education, at least not for \u0026quot;core\u0026quot; subjects such as English, math, and science.  There are typically remedial, standard, honors, and AP classes for these subjects.\u003Cp\u003EIf you\u0026#x27;re OK with multi-track education, it would seem like having a separate school just for gifted students is just an extension of that.\u003Cp\u003EThat said, in my own experience, although there were a lot of down sides to having some single-track subjects (e.g. physical education), one benefit of attending school with children of all ability levels was that you were exposed to children from all walks of life.\u003Cp\u003EI would imagine that a school for gifted students would have skewed socioeconomic demographics compared to a school for students of all ability levels, and in many places, that might mean less racial diversity.\u003Cp\u003EAt my public high school, we had a program where students at standard-level or above would assist special-education students.  That type of opportunity would probably be missing from a school for only gifted students.",
+      "num_comments": null,
+      "story_id": 13482085,
+      "story_title": "Should gifted students go to a separate school?",
+      "story_url": "https://theconversation.com/should-gifted-students-go-to-a-separate-school-71620",
+      "parent_id": 13482085,
+      "created_at_i": 1485359448,
+      "_tags": [
+        "comment",
+        "author_jawns",
+        "story_13482085"
+      ],
+      "objectID": "13482336",
+      "_highlightResult": {
+        "author": {
+          "value": "jawns",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Very few public high schools in the U.S. have single-track education, at least not for \u0026quot;core\u0026quot; subjects such as English, math, and science.  There are typically remedial, standard, honors, and AP classes for these subjects.\u003Cp\u003EIf you're OK with multi-track education, it would seem like having a separate school just for gifted students is just an extension of that.\u003Cp\u003EThat said, in my own experience, although there were a lot of down sides to having some single-track subjects (e.g. physical education), one benefit of attending school with children of all ability levels was that you were exposed to children from all walks of life.\u003Cp\u003EI would imagine that a school for gifted students would have skewed socioeconomic demographics compared to a school for students of all ability levels, and in many places, that might mean less racial diversity.\u003Cp\u003EAt my public high school, we had a program where students at standard-level or above would assist special-education students.  That type of opportunity would probably be missing from a school for only gifted students.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Should gifted students go to a separate school?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://theconversation.com/should-gifted-students-go-to-a-separate-school-71620",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:50:41.000Z",
+      "title": null,
+      "url": null,
+      "author": "michelb",
+      "points": null,
+      "story_text": null,
+      "comment_text": "It sure is not killed by Spotlight, I use many features in Alfred that are not available in Spotlight. Launching applications and doing simple tasks like calculations are possible with Spotlight. Snippets in Alfred work better then the OSX \u0026#x27;text\u0026#x27; feature. Alfred with the Powerpack is really great.",
+      "num_comments": null,
+      "story_id": 13478612,
+      "story_title": "Night Shift Mode in macOS Sierra 10.12.4",
+      "story_url": "http://www.macrumors.com/2017/01/24/night-shift-mode-in-macos-sierra-10-12-4/",
+      "parent_id": 13481879,
+      "created_at_i": 1485359441,
+      "_tags": [
+        "comment",
+        "author_michelb",
+        "story_13478612"
+      ],
+      "objectID": "13482335",
+      "_highlightResult": {
+        "author": {
+          "value": "michelb",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "It sure is not killed by Spotlight, I use many features in Alfred that are not available in Spotlight. Launching applications and doing simple tasks like calculations are possible with Spotlight. Snippets in Alfred work better then the OSX 'text' feature. Alfred with the Powerpack is really great.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "Night Shift Mode in macOS Sierra 10.12.4",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://www.macrumors.com/2017/01/24/night-shift-mode-in-macos-sierra-10-12-4/",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-25T15:50:39.000Z",
+      "title": "Make Learning a Lifelong Habit",
+      "url": "https://hbr.org/2017/01/make-learning-a-lifelong-habit",
+      "author": "devy",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1485359439,
+      "_tags": [
+        "story",
+        "author_devy",
+        "story_13482334"
+      ],
+      "objectID": "13482334",
+      "_highlightResult": {
+        "title": {
+          "value": "Make Learning a Lifelong Habit",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://hbr.org/2017/01/make-learning-a-lifelong-habit",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "devy",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 12702074,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "processingTimeMS": 1,
+  "exhaustiveNbHits": true,
+  "query": "",
+  "params": "advancedSyntax=true\u0026analytics=false"
+}
