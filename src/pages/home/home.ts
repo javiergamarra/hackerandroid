@@ -8,10 +8,10 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  talk = "Hi!"
+  talk:number = 2
 
   constructor(public navCtrl: NavController) {
-    setTimeout(x => this.talk = 'hola!', 2000);
+    setTimeout(x => this.talk = 4, 2000);
   }
 
 }
