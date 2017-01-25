@@ -11,7 +11,7 @@ export class HomePage {
   talk = "Hi!"
 
   constructor(public navCtrl: NavController) {
-
+    setTimeout(x => this.talk = 'hola!', 2000);
   }
 
 }
