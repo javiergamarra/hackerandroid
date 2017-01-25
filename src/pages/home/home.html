@@ -6,5 +6,8 @@
 
 <ion-content padding>
 
-  {{story.title}}
+  <div *ngFor="let story of stories">
+    {{story.title}}
+  </div>
+
 </ion-content>
